@@ -89,8 +89,7 @@ The project includes an interactive Streamlit web application where users can:
 
 ### Live Demo
 
-🔗 [Add Your Streamlit Link Here]
-
+🔗 https://maincraftinternshiptask1-j5wxhzr8skappwgfnakrfcr.streamlit.app/
 ---
 
 ## 📂 Project Structure
